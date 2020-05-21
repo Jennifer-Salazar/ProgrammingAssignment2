@@ -1,5 +1,5 @@
 
-En la siguiente lectura se encuentra presente el planteamineto acerca del proyecto resuelto en el archivo cachematrix.R el cual es mi segunda tarea de programación del curo R-programming.
+En la siguiente lectura se encuentra presente el planteamineto acerca del proyecto resuelto en el archivo cachematrix.R el cual es mi segunda tarea de programación del curso R-programming.
 
 ### Introduction
 
