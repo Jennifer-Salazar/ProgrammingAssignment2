@@ -1,3 +1,6 @@
+
+En la siguiente lectura se encuentra presente el planteamineto acerca del proyecto resuelto en el archivo cachematrix.R
+
 ### Introduction
 
 This second programming assignment will require you to write an R
