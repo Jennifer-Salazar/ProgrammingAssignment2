@@ -4,7 +4,7 @@
 ## invertible y la inversa en la memoria caché.
 
 # Esta función realiza la creación del objeto especial y la segunda evalua la existencia de 
-# inversa de la respectiva matriz, ya que si esta ya existe se ahorra procesamiento
+# inversa de la respectiva matriz, si ésta ya existe se ahorra procesamiento
 
 #esta función crea un objeto especial "matriz" que puede almacenar en caché su inverso.
 #Ahorra procesamiento y calcular repetidas veces la inversa de la matriz de forma innecesaria
